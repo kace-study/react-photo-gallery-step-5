@@ -4,7 +4,7 @@ import SearchBox from '../SearchBox/SearchBox';
 import PhotoList from '../PhotoList/PhotoList';
 import './Gallery.css';
 
-const API_KEY = "YOUR API HERE!";
+const API_KEY = "YOUR API KEY HERE!";
 
 class Gallery extends Component {
 
