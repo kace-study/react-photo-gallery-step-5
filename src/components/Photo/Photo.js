@@ -4,7 +4,7 @@ import './Photo.css';
 
 const Photo = ({ photo }) =>  {
 
-  onClick = (url) => {
+  const onClick = (url) => {
     window.open(url, '_blank');
   }
 
